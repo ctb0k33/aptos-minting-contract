@@ -18,7 +18,7 @@ aptos move upgrade-object-package
   --assume-yes --skip-fetch-latest-git-deps
 ```
 
-## Run the trasnfer ownership script
+## Run the transfer ownership script
 ```bash
 aptos move run-script 
    --assume-yes 
